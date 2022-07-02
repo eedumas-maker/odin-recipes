@@ -1,0 +1,23 @@
+div {
+    font-family: 'Visia Pro', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(0, 171, 86);
+    background-color: bisque;
+}
+
+h2 {
+    text-align: center;
+    background-color: bisque;
+}
+
+h3 {
+    text-align: center;
+    background-color: bisque;
+}
+
+ul {
+    list-style-type: circle;
+}
